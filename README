@@ -28,11 +28,12 @@ To check, run
 
 test_assig1.sh will wait for 1 second to get the result and test_assig1_long.sh will wait for 10 seconds. If you want to change this, modify the files and change the sleep value at line 60 and 62 respectively.
 
-## Unicast abd Multicast Implementations
-![Alt text](img/1.png)
+## Unicast and Multicast Implementations
+![Unicast and Multicast](img/1.png)
 
 ## Buffer Overflow Attacks
-![Alt text](/img/2.png)
+![Buffer Overflow](img/2.png)
 
 ## ASLR Solution
-![Alt text](/img/3.png)
+![ASLR Solution](img/3.png)
+
