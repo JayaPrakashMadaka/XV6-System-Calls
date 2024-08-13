@@ -31,9 +31,3 @@ test_assig1.sh will wait for 1 second to get the result and test_assig1_long.sh 
 ## Unicast and Multicast Implementations
 ![Unicast and Multicast](img/1.png)
 
-## Buffer Overflow Attacks
-![Buffer Overflow](img/2.png)
-
-## ASLR Solution
-![ASLR Solution](img/3.png)
-
